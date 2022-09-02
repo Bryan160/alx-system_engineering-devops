@@ -1,1 +1,1 @@
-Task 2.There is no place like home
+script that creates a directory named my_first_directory in the /tmp/ directory
